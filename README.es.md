@@ -55,7 +55,7 @@ El marketplace de mascotas (PawHome) es un prototipo construido por un equipo un
 - [ai-quality-governance](https://github.com/ckachury/ai-quality-governance): la misma disciplina aplicada a funcionalidades con IA.
 - [test-process-assessment](https://github.com/ckachury/test-process-assessment): medir y mejorar el proceso de pruebas de toda una organización.
 
-Contenido compartido bajo [CC BY-NC-ND 4.0](LICENSE).
+Contenido compartido bajo [CC BY-NC-ND 4.0](LICENSE). Para uso comercial o licencias, [contáctame](https://www.linkedin.com/in/carla-achury-617b7536/).
 
 ---
 

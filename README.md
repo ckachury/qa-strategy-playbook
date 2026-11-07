@@ -53,7 +53,7 @@ The pet-care marketplace (PawHome) is a prototype built by a university team in 
 - [ai-quality-governance](https://github.com/ckachury/ai-quality-governance): the same discipline applied to AI features.
 - [test-process-assessment](https://github.com/ckachury/test-process-assessment): measuring and improving the test process of a whole organisation.
 
-Content is shared under [CC BY-NC-ND 4.0](LICENSE).
+Content is shared under [CC BY-NC-ND 4.0](LICENSE). For commercial use or licensing, [contact me](https://www.linkedin.com/in/carla-achury-617b7536/).
 
 ---
 
